@@ -13,8 +13,6 @@ The dataset contains 569 instances of tumors, with 30 features each. The feature
 ## Project Structure
 
 - `breast_cancer_prediction.ipynb`: Jupyter notebook containing the code for the project.
-- `data/`: Directory containing the dataset (if applicable).
-- `images/`: Directory containing images used in the notebook (if applicable).
 
 ## Requirements
 
